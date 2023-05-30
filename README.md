@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="kaustabhws" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustabhws" alt="kaustabhws" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJS, Python, Java**
 
 - 👯 I’m looking to collaborate on **Web development**
